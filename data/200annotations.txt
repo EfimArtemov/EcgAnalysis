@@ -1,4 +1,4 @@
-      Time   Sample #  Type  Sub Chan  Num	Aux
+      Time   Sample#  Type  Sub Chan  Num	Aux
     0:00.186       67     +    0    0    0	(B
     0:00.625      225     V    1    0    0
     0:01.353      487     N    0    0    0

@@ -1,4 +1,4 @@
-      Time   Sample #  Type  Sub Chan  Num	Aux
+      Time   Sample#  Type  Sub Chan  Num	Aux
     0:00.167       60     +    0    0    0	(AFIB
     0:00.442      159     N    0    0    0
     0:01.153      415     N    0    0    0
